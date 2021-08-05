@@ -1,4 +1,4 @@
-## Olá! Eu sou a Bruno Cruz
+## Olá! Eu sou Bruno Cruz
  <div>
   <a href="https://github.com/brunocruuz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocruuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
